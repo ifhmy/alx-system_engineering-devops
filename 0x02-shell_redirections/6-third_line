@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "^as" iacta
+grep "^Alea iacta est (" iacta
