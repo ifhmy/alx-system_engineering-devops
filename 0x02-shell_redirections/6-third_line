@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "^Alea iacta est (" iacta
+cat iacta | head -n 3 | tail -n 1
